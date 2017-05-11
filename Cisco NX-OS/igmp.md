@@ -1,7 +1,6 @@
-# IGMP
+<!-- Cisco NX-OS -->
 
-## Cisco NX-OS
-### Enable IGMP, Globally
+# Enable IGMP, Globally
 ```
 conf t
 ip igmp snooping
@@ -13,7 +12,7 @@ end
 show ip igmp snooping
 ```
 
-### Configure IGMP Querier for VLAN 100
+# Configure IGMP Querier for VLAN 100
 * VLAN: `100`
 * Subnet: `192.168.1.0/24`
 * Querier IP: `192.168.1.253`
