@@ -1,7 +1,6 @@
-# Configure VRRP
+<!-- Cisco NX-OS -->
 
-## Cisco NX-OS
-### VRRP with VLAN Interface
+# VRRP with VLAN Interface
 ```
 conf t
 interface <vlan id>

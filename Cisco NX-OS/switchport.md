@@ -1,7 +1,6 @@
-# Switchport Configurations
+<!-- Cisco NX-OS -->
 
-## Cisco NX-OS
-### Basic Hypervisor/Host Trunk Port
+# Basic Hypervisor/Host Trunk Port
 ```
 conf t
 interface <interface-name>

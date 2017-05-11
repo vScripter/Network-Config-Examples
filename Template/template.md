@@ -1,7 +1,6 @@
-# <title>
+<!-- <vendor-platform-name> -->
 
-## <vendor-platform>
-### <example>
+# <example>
 ```
 
 ```

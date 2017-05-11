@@ -1,7 +1,6 @@
-# OSPF
+<!-- Cisco NX-OS -->
 
-## Cisco NX-OS
-### Configure OSPF
+# Configure OSPF
 ```
 conf t
 router ospf <ospf process id>
