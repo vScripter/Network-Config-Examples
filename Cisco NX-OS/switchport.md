@@ -4,6 +4,7 @@
 ### Basic Hypervisor/Host Trunk Port
 ```
 conf t
+interface <interface-name>
 spanning-tree port type edge
 spanning-tree bpduguard enable
 spanning-tree bpdufilter enable
